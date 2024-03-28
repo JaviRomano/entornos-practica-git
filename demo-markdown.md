@@ -2,12 +2,9 @@
 ***
 #### Enlaces de interés en **GITHUB**
 ___
-[JaviRomano](https://github.com/JaviRomano"Inicio")
-
-![logo jromano](https://drive.google.com/file/d/1r8ORmpj9vriByXjc1gpHb9axMPGcvnZf/view?usp=sharing)
 
 [sintaxis markdown](https://markdown.es/sintaxis-markdown/#imagenes)
-[Tutorial para principiantes Git - GitHub](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
+[Videotutorial para principiantes Git - GitHub](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
 
 
 
