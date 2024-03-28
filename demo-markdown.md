@@ -4,7 +4,7 @@
 ___
 [JaviRomano](https://github.com/JaviRomano"Inicio")
 
-!(https://drive.google.com/file/d/1r8ORmpj9vriByXjc1gpHb9axMPGcvnZf/view?usp=sharing)
+![logo jromano](https://drive.google.com/file/d/1r8ORmpj9vriByXjc1gpHb9axMPGcvnZf/view?usp=sharing)
 
 [sintaxis markdown](https://markdown.es/sintaxis-markdown/#imagenes)
 [Tutorial para principiantes Git - GitHub](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
