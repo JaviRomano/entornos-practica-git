@@ -1,57 +1,83 @@
-### Informacion sobre todo lo aprendido
-***
-#### Enlaces de interés en **GITHUB**
-___
+<!DOCTYPE html>
+<html lang="es">
 
-[sintaxis markdown](https://markdown.es/sintaxis-markdown/#imagenes)
-[Videotutorial para principiantes Git - GitHub](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>demo-markdown</title>
+    <link rel=" stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            color: white;
+            padding: 0;
+            background-color: rgb(109, 42, 42);
+        }
 
+        .container {
+            display: flex;
+        }
 
+        .left-sidebar {
+            flex: 0 0 25%;
+            background: linear-gradient(rgb(109, 0, 0) 10%, black 100%);
+            color: rgb(0, 0, 0);
+            padding: 1.2em;
+        }
 
-~~~ 
-`ls` muestra el contenido del directorio
+        .content {
+            flex: 0 0 75%;
+            padding: 20px;
+        }
 
-`cd Desktop` ir al escritorio
+        .link-list {
+            list-style-type: none;
+        }
 
-`cd ..` volver directorio anterior
+        .link-list li {
+            margin-bottom: 10px;
+        }
 
-`pwd` muestra directorio actual
+        .link-list li a {
+            text-decoration:dashed;
+            color: #912a2a;
+            font-stretch: expanded;
+        }
+    </style>
+</head>
 
-`mkdir “nueva carpeta”` crear directorio dentro del actual (make directory)
+<body>
+    <div class="container">
+        <div class="left-sidebar">
+            <h3>Enlaces de interes
+            <ul class="link-list">
+                <li><a class="external-link" href="https://markdown.es/sintaxis-markdown/"><i
+                            class="fa-brands fa-markdown"></i> sintaxis markdown</a></li>
+                <li><a class="youtube-video" href="https://www.youtube.com/watch?v=3GymExBkKjE&t=195s"
+                        target="_blank"><img class="fa-brands fa-youtube"><i class="fa-brands fa-youtube"></i>
+                        Videotutorial Git - GitHub  </a>
+                </li>
+            </ul></h3>
+        </div>
+        <div class="content">
+            <!-- Aquí puedes agregar el contenido principal de tu repositorio -->
+            <h1>JaviRomano</h1>
+            <p>Espacio dedicado a enumerar las distintas capacidades y conocimientos adquiridos sobre informática,
+                desde el enfoque de un alumno cursando DAM actualmente.</p>
+            <ul>
+                <li><a href="#">Programacion</a></li>
+                <li><a href="#">Bases de datos</a></li>
+                <li><a href="#">Sistemas</a></li>
+                <li><a href="#">Lenguaje de marcas</a></li>
+                <li><a href="#">Entornos de desarrollo</a></li>
+            </ul>
+        </div>
 
-vamos al directorio creado donde alojaremos nuestro control de versiones
+    </div>
 
-`git config — global [user.name](http://user.name) “nombre”` configura nombre de usuario
+</body>
 
-`git config — global user.mail “mail”` configura direccion de email
-
-`touch holaGit.txt` genera un archivo txt con el nombre holaGit
-
-`git init` Inicializa git como repositorio (iniciar tracking) (crea directorio .git donde se alojarán los archivos)
-
-`git branch -m main` a la rama inicial se le renombra ‘main’ (master al parecer suena feo).
-
-`git status` muestra el contenido de la rama ‘main’
-
-`git log` muestra historial de commit 
-
-- `git log` muestra id de los commit (puede extenderse y devolver distintos tipos de lineas de informacion)
-    
-     `git log --graph` | `git log --graph --pretty=oneline` | `git log --graph --decorate --all --oneline`
-    
-
-`git commit -m` "comentario sobre el cambio de version"
-
-`git checkout id-del-commit-específico` realizar un checkout a un commit específico
-
-`git checkout NOMBRE-DE-LA-RAMA` realizar checkout a una rama existente
-
-`git checkout -b NOMBRE-DE-LA-RAMA-NUEVA` crear y checkout a una rama nueva (cambia automatico)
-
-`git config --global alias.tree "log --graph --decorate --all --oneline"` establece alias sobre un comando  | ‘tree’ es la palabra usada para el alias, “comando sobre el que aplicamos el alias” | Se añade en el .gitconfig
-
-`git diff` muestra los cambios entre codigos
-
-`git tag elegido` asigna un tag a la instantanea | tag: elegido | minusculas_y_numeros
-
-~~~
+</html>
