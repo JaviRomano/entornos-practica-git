@@ -1,8 +1,9 @@
-###Informacion sobre todo lo aprendido
+### Informacion sobre todo lo aprendido
 ***
 #### Enlaces de interés en **GITHUB**
 ___
-[JaviRomano] (https://github.com/JaviRomano"Inicio")
+[JaviRomano](https://github.com/JaviRomano"Inicio")
+
 !(https://drive.google.com/file/d/1r8ORmpj9vriByXjc1gpHb9axMPGcvnZf/view?usp=sharing)
 
 [sintaxis markdown](https://markdown.es/sintaxis-markdown/#imagenes)
