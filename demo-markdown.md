@@ -1,6 +1,5 @@
-
-![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png)
 # 🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴
+![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png)
 
 Soy estudiante de desarrollo multiplataforma a raiz de mi fascinación por el ámbito digital. Tras mucho tiempo pensando en cómo darle utilidad a los conocimientos sobre informatica adquiridos a lo largo de los años como usuario entusiasta, decidi iniciar mi formacion como desarrollador.
 
