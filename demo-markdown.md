@@ -3,7 +3,7 @@
   
 <br>![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png)
 
-<div align="left">
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=JaviRomano&label=Profile%20views&color=0e75b6&style=flat" alt="jr" /> </p>
 Soy estudiante de desarrollo multiplataforma a raiz de mi fascinación por el ámbito digital. Tras mucho tiempo pensando en cómo darle utilidad a los conocimientos sobre informatica adquiridos a lo largo de los años como usuario entusiasta, decidi iniciar mi formacion como desarrollador.
 
 Aquí encontrarás información sobre los conocimientos adquiridos a lo largo de mi formación:
@@ -41,7 +41,7 @@ ___
 ### Entornos de desarrollo
 - Conocimientos sobre los procesos de desarrollo y el IDE donde creamos el codigo fuente desde la concepción del codigo, el funcionamiento interno de los IDE y utilidades que ofrecen, así como el aprendizaje de distintas buenas prácticas a aplicar durante el proceso de programación. Trabajando desde **NetBeans y Eclipse**.
 <div align="center">  
-   <img src="https://skillicons.dev/icons?i=python,eclipse,markdown,notion,git,github" height="40"/>
+   <img src="https://skillicons.dev/icons?i=python,markdown,notion,git,github" height="40"/>
   <img width="12" />
   
 ___
@@ -59,17 +59,13 @@ ___
 ## Enlaces de interés
 
 [![Videotutorial Git & GitHub](https://markdown-videos-api.jorgenkh.no/youtube/3GymExBkKjE)](https://youtu.be/3GymExBkKjE)
-
-[![Aprende MarkDown en 6 minutos](https://markdown-videos-api.jorgenkh.no/youtube/y6XdzBNC0_0&t)](https://youtu.be/y6XdzBNC0_0&t)
-
-<a> [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4) </a>
-
+[![Aprende MarkDown en 6 minutos](https://markdown-videos-api.jorgenkh.no/youtube/y6XdzBNC0_0)](https://youtu.be/y6XdzBNC0_0)
+[Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4)
+ 
 ***
 <div align="center">  
-___
   
-### Redes Sociales 
-  
+### Redes Sociales   
 <a href="jromano5855" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
