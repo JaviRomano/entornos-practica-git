@@ -16,31 +16,25 @@
             padding: 0;
             background-color: rgb(109, 42, 42);
         }
-
         .container {
             display: flex;
         }
-
         .left-sidebar {
             flex: 0 0 25%;
             background: linear-gradient(rgb(109, 0, 0) 10%, black 100%);
             color: rgb(0, 0, 0);
             padding: 1.2em;
         }
-
         .content {
             flex: 0 0 75%;
             padding: 20px;
         }
-
         .link-list {
             list-style-type: none;
         }
-
         .link-list li {
             margin-bottom: 10px;
         }
-
         .link-list li a {
             text-decoration:dashed;
             color: #912a2a;
