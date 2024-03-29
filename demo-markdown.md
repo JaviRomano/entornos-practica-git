@@ -57,7 +57,6 @@
             </ul></h3>
         </div>
         <div class="content">
-            <!-- Aquí puedes agregar el contenido principal de tu repositorio -->
             <h1>JaviRomano</h1>
             <p>Espacio dedicado a enumerar las distintas capacidades y conocimientos adquiridos sobre informática,
                 desde el enfoque de un alumno cursando DAM actualmente.</p>
