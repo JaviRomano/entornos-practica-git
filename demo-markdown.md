@@ -1,6 +1,9 @@
-# 🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴
-![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png)
+<div align="center">
+🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴 
+  
+<br>![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png)
 
+<div align="left">
 Soy estudiante de desarrollo multiplataforma a raiz de mi fascinación por el ámbito digital. Tras mucho tiempo pensando en cómo darle utilidad a los conocimientos sobre informatica adquiridos a lo largo de los años como usuario entusiasta, decidi iniciar mi formacion como desarrollador.
 
 Aquí encontrarás información sobre los conocimientos adquiridos a lo largo de mi formación:
@@ -27,8 +30,22 @@ Aquí encontrarás información sobre los conocimientos adquiridos a lo largo de
 - [Videotutorial Git & GitHub - YouTube](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
 - [sintaxis markdown - markdown.es](https://markdown.es/sintaxis-markdown/)
 - [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4)
+***
+## Redes Sociales 
+  <a href="jromano5855" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="javiromanofotografiaz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="Javi_Romano" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="UC-b2fCszcUsN5wbL_KDIkbQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-## Redes Sociales
 - [GitHub](https://github.com/JaviRomano)
 - [Twitter](https://twitter.com/Javi_Romano)
 - [YouTube](https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ)
