@@ -50,20 +50,25 @@ ___
 ### Lenguaje de marcas
 - Aprendizaje sobre el lenguaje de marcado para dotar de una estructura ordenada y legible durante el desarrollo de un dominio web, centrando el contenido en **HTML, CSS y JavaScript**.
 <div align="center">  
-   <img src="https://skillicons.dev/icons?i=java,eclipse,vscode,figma" height="40"/>
+   <img src="https://skillicons.dev/icons?i=sublime,html,css,javascript,figma" height="40"/>
   <img width="12" />
   
 ___
 <div align="left">
   
 ## Enlaces de interés
-- [Videotutorial Git & GitHub - YouTube](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
-- [sintaxis markdown - markdown.es](https://markdown.es/sintaxis-markdown/)
-- [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4)
+
+[![Videotutorial Git & GitHub](https://markdown-videos-api.jorgenkh.no/youtube/3GymExBkKjE)](https://youtu.be/3GymExBkKjE)
+
+[![Aprende MarkDown en 6 minutos](https://markdown-videos-api.jorgenkh.no/youtube/y6XdzBNC0_0&t)](https://youtu.be/y6XdzBNC0_0&t)
+
+<a> [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4) </a>
+
 ***
 <div align="center">  
+___
   
-## Redes Sociales 
+### Redes Sociales 
   
 <a href="jromano5855" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
