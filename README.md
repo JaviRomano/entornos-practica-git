@@ -1,4 +1,6 @@
-🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴​​​​​ ![logo.png](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo.png/64/64)
+🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴​​​​​ ![logo.png](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo.png)
+<image src="[/images/picture.jpg](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo.png)" alt="Descripción de la imagen">
+
 
 ## Práctica GIT GITHUB
 ***
