@@ -1,44 +1,241 @@
-  JaviRomano  body { background: #037979; font-family: Arial, Helvetica, sans-serif; } h2 { color: #037979; text-shadow: 1px 1px 3px black; text-align: center; } li { list-style: none; } p { text-align: left; padding-left: 10px; padding-right: 10px; color: #ffffff; } header { background: #790303; box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0); ; border-radius: 20px 20px 20px 20px; text-align: center; box-sizing: content-box; border: 1px solid rgb(0, 0, 0); margin-left: 20%; margin-right: 20%; margin-bottom: 5px; padding: 10px; } .descripcion { padding-left: 5%; padding-right: 5%; font-size: 16px; text-align: left; display: inline-block; } .asignaturas { background: #790303; box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0); border-radius: 20px 20px 20px 20px; margin-top: 5em; box-sizing: content-box; padding: 10px; border: 1px solid rgb(0, 0, 0); margin-left: 20px; margin-right: 20px; align-items: flex-start; } .asignatura { padding: 5px 40px 3px; margin-top: 5px; margin-bottom: 5px; box-sizing: content-box; display: inline-block; border-radius: 10px 10px 10px 10px; border-bottom: 5px solid black; background-color: grey; border: 1px solid white; color: #ffffff; transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s; text-decoration: none; } .asignatura:hover { background-color: #037979; box-shadow: rgb(0, 0, 0) 5px 10px 10px; padding-bottom: 10px; color: #790303 } .enlaces { background: #790303; box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0); border-radius: 20px 20px 20px 20px; text-align: center; padding: 10px; margin-top: 5px; margin-bottom: 5px; margin-left: 20%; margin-right: 20%; border: 1px solid rgb(0, 0, 0); } .enlace { padding: 5px 5px 5px 5px; margin-top: 5px; margin-bottom: 5px; margin-right: 35px; display: inline-block; border-radius: 10px 10px 10px 10px; background-color: grey; border: 1px solid white; color: #ffffff; transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s; cursor: pointer; text-decoration: none; } .enlace:hover { background-color: #037979; box-shadow: rgb(0, 0, 0) 5px 10px 10px; padding-bottom: 10px; color: #790303 } footer { background: #790303; box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0); border-radius: 20px 20px 20px 20px; font: 16px verdan, sans-serif; color: #ffffff; text-shadow: 3px 5px 10px rgb(94, 94, 94); text-align: center; box-sizing: content-box; height: 10em; border: 1px solid rgb(0, 0, 0); margin-left: 30%; margin-right: 30%; } .botonera { align-items: center; } .pestania { padding: 5px 40px 3px; margin-top: 5px; margin-bottom: 5px; display: inline-block; border-radius: 10px 10px 10px 10px; border-bottom: 5px solid black; background-color: grey; border: 1px solid white; color: #ffffff; transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s; cursor: pointer; } .pestania:hover { background-color: #037979; box-shadow: rgb(0, 0, 0) 5px 10px 10px; padding-bottom: 10px; color: #790303 }
+<!DOCTYPE html>
+<html lang="es">
 
-🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴​​​​​
-======================================================================
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JaviRomano</title>
+    <link rel="stylesheet" href="">
+    <style type="text/css">
+        body {
+            background: #037979;
+            font-family: Arial, Helvetica, sans-serif;
+        }
 
-Soy estudiante de desarrollo multiplataforma a raiz de mi fascinación por el ámbito digital. Tras mucho tiempo pensando en cómo darle utilidad a los conocimientos sobre informatica adquiridos a lo largo de los años como usuario entusiasta, decidi iniciar mi formacion como desarrollador.  
-  
-Aquí encontrarás información sobre los conocimientos adquiridos a lo largo de mi formación:
+        h2 {
+            color: #037979;
+            text-shadow: 1px 1px 3px black;
+            text-align: center;
+        }
 
-Materias
---------
+        li {
+            list-style: none;
+        }
 
-### Programación
+        p {
+            text-align: left;
+            padding-left: 10px;
+            padding-right: 10px;
+            color: #ffffff;
+        }
 
-Iniciacion en **Java**, operaciones logicas, aprendizaje de lógica booleana, conocimiento y aplicación de los distintos métodos de los que dispone Java, programacion orientada a objetos.  
-Operaciones en distintos IDE: **Paiza, NetBeans, Visual Studio Code, Eclipse**.
+        header {
+            background: #790303;
+            box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0);            ;
+            border-radius: 20px 20px 20px 20px;
+            text-align: center;
+            box-sizing: content-box;
+            border: 1px solid rgb(0, 0, 0);
+            margin-left: 20%;
+            margin-right: 20%;
+            margin-bottom: 5px;
+            padding: 10px;
+        }
 
-### Base de datos
+        .descripcion {
+            padding-left: 5%;
+            padding-right: 5%;
+            font-size: 16px;
+            text-align: left;
+            display: inline-block;
+        }
 
-Creacion de esquema conceptual de una base de datos, diagramas entidad-relacion, creacion de una BBDD e insercion de sus registros, consulta y edicion de BBDD mediante **MySql Workbench**.
+        .asignaturas {
+            background: #790303;
+            box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0);
+            border-radius: 20px 20px 20px 20px;
+            margin-top: 5em;            
+            box-sizing: content-box;
+            padding: 10px;
+            border: 1px solid rgb(0, 0, 0);
+            margin-left: 20px;
+            margin-right: 20px;
+            align-items: flex-start;
+        }
 
-### Sistemas informáticos
+        .asignatura {
+            padding: 5px 40px 3px;
+            margin-top: 5px;
+            margin-bottom: 5px;            
+            box-sizing: content-box;
+            display: inline-block;
+            border-radius: 10px 10px 10px 10px;
+            border-bottom: 5px solid black;
+            background-color: grey;
+            border: 1px solid white;
+            color: #ffffff;
+            transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s;
+            text-decoration: none;
+        }
 
-Nociones de hardware, herramientas de los distintos sistemas operativos, inicio en **Linux** y sus distintas disposiciones, aprender a trabajar mediante lineas de comandos.
+        .asignatura:hover {
+            background-color: #037979;
+            box-shadow: rgb(0, 0, 0) 5px 10px 10px;
+            padding-bottom: 10px;
+            color: #790303
+        }
 
-### Entornos de desarrollo
 
-Conocimientos sobre los procesos de desarrollo y el IDE donde creamos el codigo fuente desde la concepción del codigo, el funcionamiento interno de los IDE y utilidades que ofrecen, así como el aprendizaje de distintas buenas prácticas a aplicar durante el proceso de programación. Trabajando desde **NetBeans y Eclipse**
+        .enlaces {
+            background: #790303;
+            box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0);
+            border-radius: 20px 20px 20px 20px;
+            text-align: center;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-left: 20%;
+            margin-right: 20%;
+            border: 1px solid rgb(0, 0, 0);
+        }
 
-### Lenguaje de marcas
+        .enlace {
+            padding: 5px 5px 5px 5px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-right: 35px;
+            display: inline-block;
+            border-radius: 10px 10px 10px 10px;
+            background-color: grey;
+            border: 1px solid white;
+            color: #ffffff;
+            transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s;
+            cursor: pointer;
+            text-decoration: none;
 
-Aprendizaje sobre el lenguaje de marcado para dotar de una estructura ordenada y legible durante el desarrollo de un dominio web, centrando el contenido en **HTML, CSS y JavaScript**
+        }
 
-Enlaces de interés
-------------------
+        .enlace:hover {
+            background-color: #037979;
+            box-shadow: rgb(0, 0, 0) 5px 10px 10px;
+            padding-bottom: 10px;
+            color: #790303
+        }
 
-*   [Videotutorial Git & GitHub - YouTube](https://www.youtube.com/watch?v=3GymExBkKjE&t=195s)
-*   [sintaxis markdown - markdown.es](https://markdown.es/sintaxis-markdown/)
-*   [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4)
 
-Redes Sociales
---------------
+        footer {
+            background: #790303;
+            box-shadow: 2px 2px 5px inset rgb(255, 255, 255), -2px -2px 5px inset rgb(0, 0, 0);
+            border-radius: 20px 20px 20px 20px;
+            font: 16px verdan, sans-serif;
+            color: #ffffff;
+            text-shadow: 3px 5px 10px rgb(94, 94, 94);
+            text-align: center;
+            box-sizing: content-box;
+            height: 10em;
+            border: 1px solid rgb(0, 0, 0);
+            margin-left: 30%;
+            margin-right: 30%;
+        }
 
-GitHub X YouTube
+        .botonera {
+            align-items: center;
+        }
+
+        .pestania {
+            padding: 5px 40px 3px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            display: inline-block;
+            border-radius: 10px 10px 10px 10px;
+            border-bottom: 5px solid black;
+            background-color: grey;
+            border: 1px solid white;
+            color: #ffffff;
+            transition: background-color 0.2s linear, padding-bottom 0.2s linear, box-shadow 0.3s;
+            cursor: pointer;
+        }
+
+        .pestania:hover {
+            background-color: #037979;
+            box-shadow: rgb(0, 0, 0) 5px 10px 10px;
+            padding-bottom: 10px;
+            color: #790303
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+
+        <h1>🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴​​​​​</h1>
+        <p class="descripcion">Soy estudiante de desarrollo multiplataforma a raiz de mi fascinación por el ámbito
+            digital. Tras
+            mucho tiempo pensando en cómo darle utilidad a los conocimientos sobre informatica adquiridos a lo largo de
+            los años como
+            usuario entusiasta, decidi iniciar mi formacion como desarrollador.<br><br>
+            Aquí encontrarás información sobre los conocimientos adquiridos a lo largo de mi formación:</p>
+    </header>
+
+
+    <div class="asignaturas">
+        <h2>Materias</h2>
+        <div class="asignatura">
+            <h3>Programación</h3>
+            <p>Iniciacion en <b>Java</b>, operaciones logicas, aprendizaje de lógica booleana, conocimiento y aplicación
+                de los distintos métodos de los que dispone Java, programacion orientada a objetos. <br>
+                Operaciones en distintos IDE: <b>Paiza, NetBeans, Visual Studio Code, Eclipse</b>.</p>
+        </div>
+        <div class="asignatura">
+            <h3>Base de datos</h3>
+            <p>Creacion de esquema conceptual de una base de datos, diagramas entidad-relacion, creacion de una BBDD e
+                insercion de sus registros, consulta y edicion de BBDD mediante <b>MySql Workbench</b>.</p>
+        </div>
+        <div class="asignatura">
+            <h3>Sistemas informáticos</h3>
+            <p>Nociones de hardware, herramientas de los distintos sistemas operativos, inicio en <b>Linux</b> y sus
+                distintas
+                disposiciones, aprender a trabajar mediante lineas de comandos.</p>
+        </div>
+        <div class="asignatura">
+            <h3 >Entornos de desarrollo</h3>
+            <p>Conocimientos sobre los procesos de desarrollo y el IDE donde creamos el codigo fuente desde la
+                concepción del codigo, el funcionamiento interno de los IDE y
+                utilidades que ofrecen, así como el aprendizaje de distintas buenas prácticas a aplicar durante el
+                proceso de programación. Trabajando desde <b>NetBeans y Eclipse</b></p>
+        </div>
+        <div class="asignatura">
+            <h3>Lenguaje de marcas</h3>
+            <p>Aprendizaje sobre el lenguaje de marcado para dotar de una estructura ordenada y legible durante el
+                desarrollo de un dominio web, centrando el contenido en <b>HTML, CSS y JavaScript</b></p>
+        </div>
+    </div>
+
+    <div class="enlaces">
+        <h2>Enlaces de interés</h2>
+        <ul>
+            <li><a class="enlace" href="https://www.youtube.com/watch?v=3GymExBkKjE&t=195s" target="_blank"><img
+                        class="fa-brands fa-youtube"><i class="fa-brands fa-youtube"></i>Videotutorial Git & GitHub -
+                    YouTube</a>
+            </li>
+            <li><a class="enlace" href="https://markdown.es/sintaxis-markdown/">
+                    <i class="fa-brands fa-markdown"></i>sintaxis markdown - markdown.es</a></li>
+            <li><a class="enlace"
+                    href="https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4">
+                    <i class="fa-brands fa-notion"></i> Utilidades y comandos GitBash - Notion</a></li>
+        </ul>
+    </div>
+
+
+
+    <footer>
+        <h2>Redes Sociales</h2>
+        <div class="botonera">
+            <button class="pestania" href="https://github.com/JaviRomano">GitHub</button>
+            <button class="pestania" href="https://twitter.com/Javi_Romano">X</button>
+            <button class="pestania" href="https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ">YouTube</button>
+        </div>
+    </footer>
+</body>
+
+</html>
