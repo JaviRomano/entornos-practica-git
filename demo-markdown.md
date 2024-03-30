@@ -62,20 +62,3 @@ ___
 [![Aprende MarkDown en 6 minutos](https://markdown-videos-api.jorgenkh.no/youtube/y6XdzBNC0_0)](https://youtu.be/y6XdzBNC0_0)
 [Utilidades y comandos GitBash - Notion](https://romanes-co.notion.site/git-github-a98210d098604b33be0dc5122662e11d?pvs=4)
  
-***
-<div align="center">  
-  
-### Redes Sociales   
-<a href="jromano5855" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-<a href="javiromanofotografiaz@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-<a href="[Javi_Romano](https://twitter.com/Javi_Romano)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</a>
-  <a href="[UC-b2fCszcUsN5wbL_KDIkbQ](https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo"  />
-  </a>
-</div>
