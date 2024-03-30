@@ -1,5 +1,4 @@
 
-
 ## Práctica GIT GITHUB
 ***
 ### Entornos de desarrollo
@@ -7,7 +6,18 @@
 
 ___
 
-Repositorio creado para poner en practica el aprendizqje sobre Git y GitHub, emplearemos para ello MarkDown y HTML.
-Hemos creado otro repositorio donde alojamos imagenes sobre las que enlazaremos para establecer los iconos.
+Repositorio creado para poner en practica lo aprendido sobre **Git** y **GitHub**, así como el lenguaje de marcado **MarkDown**, el cual emplearemos en la creación de los documentos necesarios.
 
-*En este repositorio se pretende hacer una recapitulación de los contenidos aprendidos y las habilidades adquiridas en **desarrollo de aplicaciones multiplataforma** (DAM)*
+___
+
+<div align="center">
+  
+## Bibliografia
+  
+[![Videotutorial Git & GitHub](https://markdown-videos-api.jorgenkh.no/youtube/3GymExBkKjE)](https://youtu.be/3GymExBkKjE)
+[![Aprende MarkDown en 6 minutos](https://markdown-videos-api.jorgenkh.no/youtube/y6XdzBNC0_0)](https://youtu.be/y6XdzBNC0_0)
+
+***
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=md,github" height="40"/>
+
