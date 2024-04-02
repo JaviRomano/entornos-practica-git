@@ -17,8 +17,8 @@ Buscamos la versión acorde a nuestro sistema operativo en la página oficial de
 
 Una vez instalado, desde la terminal GitBash incluida con Git debemos insertar los siguientes comandos para definir el usuario y su correo electrónico:<br>
  Esta configuración inicial es esencial para el uso de Git.
-- `git config — global user.nombre`  “nombre” configura nombre de usuario.
-- `git config — global user.mail`  “mail” configura direccion de email de usuario.
+- `git config — global user.name "nombre"`  “nombre” configura nombre de usuario.
+- `git config — global user.mail "mail@mail.com"`  “mail@mail.com” configura direccion de email de usuario.
   
 El siguiente comando se ha establecido como el estandar entre usuarios, no implica que sea obligatorio pero si aconsejable:
 - `git branch -m main` a la rama inicial se le renombra ‘main’ (master, al parecer suena feo).
