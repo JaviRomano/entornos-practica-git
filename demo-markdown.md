@@ -4,7 +4,7 @@
 ![Logoromano](/logo_red.png)
   
 <div align="left">
-Hemos creado este documento para tratar de sincronizar lo aprendido en clase sobre Git y GitHub con lo adquirido a traves de otras fuentes y el aprendizaje durante la realización de esta práctica.
+He creado este documento para tratar de sincronizar lo aprendido en clase sobre Git y GitHub con lo adquirido a traves de otras fuentes y el aprendizaje durante la realización de esta práctica.
 
 Entendemos la herramienta Git como un sistema de control de versiones que permite rastrear los cambios realizados en un conjunto de archivos mediante **instantáneas**, que vienen a ser cada una de las
 iteraciones sobre los cambios efectuados en los archivos de un proyecto, manteniendo el registro de los cambios realizados.
@@ -16,15 +16,16 @@ Buscamos la versión acorde a nuestro sistema operativo en la página oficial de
 ### Configurar Git
 
 Una vez instalado, desde la terminal GitBash incluida con Git debemos insertar los siguientes comandos para definir el usuario y su correo electrónico:<br>
-- Esta configuración inicial es esencial para el uso de Git.
-- `git config — global user.name`  “nombre” configura nombre de usuario
-- `git config — global user.mail`  “mail” configura direccion de email de usuario
-- El siguiente comando se ha establecido como el estandar entre usuarios, no implica que sea obligatorio pero si aconsejable:
+ Esta configuración inicial es esencial para el uso de Git.
+- `git config — global user.nombre`  “nombre” configura nombre de usuario.
+- `git config — global user.mail`  “mail” configura direccion de email de usuario.
+  
+El siguiente comando se ha establecido como el estandar entre usuarios, no implica que sea obligatorio pero si aconsejable:
 - `git branch -m main` a la rama inicial se le renombra ‘main’ (master, al parecer suena feo).
 
 ### Comandos GitBash
 
-Las siguientes instrucciones se pueden realizar a traves de nuestro entorno de trabajo, aunque se aconseja adquirir soltura con la consola de comandos, dado que podremos hacer frente a inconvenientes eventuales para los que determinados entornos de trabajo no disponen de herramientas.
+Las siguientes instrucciones se pueden realizar a traves de nuestro IDE, aunque se aconseja adquirir soltura con la consola de comandos, dado que podremos hacer frente a inconvenientes eventuales para los que determinados IDE no disponen de herramientas.
 
 - `pwd` imprime el directorio de trabajo actual (equivale a **cd** en un terminal DOS).
 - `mkdir “nueva carpeta”` crear directorio dentro del actual (MaKe DIRectory).
